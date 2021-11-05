@@ -1,4 +1,4 @@
---
+---
 identifier: jekyll-idea-1
 name: Concept
 price: 9.99
